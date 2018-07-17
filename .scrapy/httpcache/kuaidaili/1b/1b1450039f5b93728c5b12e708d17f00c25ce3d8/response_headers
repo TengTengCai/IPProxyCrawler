@@ -1,0 +1,6 @@
+Server: nginx
+Date: Sun, 10 Jun 2018 00:33:48 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Cookie, Accept-Encoding
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=31536000

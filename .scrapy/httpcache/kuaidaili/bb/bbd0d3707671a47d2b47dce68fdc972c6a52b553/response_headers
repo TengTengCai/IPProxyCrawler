@@ -1,0 +1,8 @@
+Server: nginx
+Date: Sun, 10 Jun 2018 00:31:39 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Cookie, Accept-Encoding
+Content-Encoding: gzip
+Set-Cookie: channelid=0; expires=Tue, 10-Jul-2018 00:06:56 GMT; Max-Age=2592000; Path=/
+Set-Cookie: sid=1528589216239928; expires=Tue, 10-Jul-2018 00:06:56 GMT; Max-Age=2592000; Path=/
+Strict-Transport-Security: max-age=31536000
